@@ -22,7 +22,7 @@
 
 ### ✨ Career Highlights
 
-- **isolutions AG** – Leading the data team, deploying Azure data solutions with Terraform and Azure DevOps. Working with .
+- **isolutions AG** – Leading the data team, working with Microsoft Fabric, Snowflake, Databricks using Python and SQL. Also deploying via IaC Azure data solutions with Terraform and Azure DevOps.
 - **Electronic Arts (EA)** – Worked as a Localization Audio Programmer for FIFA (EA FC), Star Wars: Battlefront II and Battlefiled 1, combining programming, analytics, automation, and media processing.
 - **Apiux Tecnología** – Delivered and maintained robust data systems with Snowflake, Azure, and Power BI.
 - **Universal Music Group** – Analyzed and automated A&R processes to discover new talent and streamline workflows.
