@@ -6,10 +6,10 @@
 <ul>
   <li>💬 Pronouns: he/him</li>
   <li>📍 Based in Barcelona, Spain</li>
-  <li>📊 I'm a BI Data Engineer with a diverse background in logistics, games, and media, currently leading the data team at isolutions AG.</li>
+  <li>📊 I'm a BI Data Engineer with a diverse background in games, media and logistics currently leading the data team at isolutions AG.</li>
   <li>💼 I specialize in building scalable data infrastructure and pipelines with Azure, Microsoft Fabric, Snowflake, Terraform, Synapse, Databricks, and Power BI.</li>
   <li>🎮 Formerly worked in game audio programming at EA, leveraging Power BI and programming for data-driven decisions. </li>
-  <li>🌱 Always learning and evolving — currently diving deeper into distributed systems and advanced data governance.</li>
+  <li>🌱 Always learning and evolving — currently diving deeper into distributed systems, data architecture and advanced data governance.</li>
 </ul>
 
 ---
